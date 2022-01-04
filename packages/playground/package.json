@@ -1,0 +1,26 @@
+{
+  "name": "@mobx-devtools/playground",
+  "version": "1.0.0",
+  "description": "Debug playground for MobX Devtools Pro",
+  "keywords": [
+    "mobx",
+    "mobx-devtools"
+  ],
+  "author": "lei.xiao <lei.xiao@compass.com>",
+  "homepage": "https://github.com/mobx-devtools/mobx-devtools#readme",
+  "license": "MIT",
+  "main": "lib/index.js",
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mobx-devtools/mobx-devtools.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/mobx-devtools/mobx-devtools/issues"
+  }
+}
